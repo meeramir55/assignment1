@@ -13,7 +13,6 @@ int main()
         num=num/10;
         n++;
     }
-    printf("%d\n",newnum);
     while(newnum!=0)
     {
         remainder2=newnum%10;
@@ -22,8 +21,7 @@ int main()
 
         newnum=newnum/10;   
     }
-    printf("%d \n",x);
-    printf("%d \n",num2);
+    
    if(x==num2)
    {
        printf("the entered number is a armstrong number \n");
