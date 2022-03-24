@@ -1,8 +1,9 @@
+//sum of digits of a number:
 #include<stdio.h>
 int main()
 {
     int n,r,sum =0;
-    printf("enter the 4 digit nmuber \n");
+    printf("enter the 4  number \n");
     scanf("%d",&n);
     while (n!=0)
     {

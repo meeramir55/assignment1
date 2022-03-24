@@ -1,3 +1,4 @@
+//area and perimeter of a rectaingle :
 #include <stdio.h>
 int main()
 {

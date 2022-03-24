@@ -1,3 +1,4 @@
+//reverse a 4 digit number and compare to original :
 #include <stdio.h>
 int main()
 {

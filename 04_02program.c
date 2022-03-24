@@ -1,3 +1,4 @@
+//sum of the digits of a 4 digit number:
 #include <stdio.h>
 int main()
 {

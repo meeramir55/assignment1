@@ -1,3 +1,4 @@
+//print 1-100 and obdure at multiples of 3:
 #include <stdio.h>
 int main()
 {

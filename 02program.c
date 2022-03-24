@@ -1,3 +1,4 @@
+//swap using third variable:
 #include <stdio.h>
 int main(){
     int a,b,t;
